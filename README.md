@@ -15,12 +15,12 @@ Desenvolver um protótipo de um sistema automatizado de irrigação com baixo cu
 
 <p align="center">
   <p>Tela Monitoramento</p>
-  <img alt="Icon" src="./Tela De Monitoramento.jpg" width="200" />
+  <img alt="Icon" src="./Tela De Monitoramento.jpg" width="400" />
 </p>
 
 <p align="center">
   <p>Tela Graficos</p>
-  <img alt="Icon" src="./Tela Grafico.jpg" width="300" />
+  <img alt="Icon" src="./Tela Graficos.jpg" width="400" />
 </p>
 
 <p align="center">
@@ -30,10 +30,10 @@ Desenvolver um protótipo de um sistema automatizado de irrigação com baixo cu
 
 <p align="center">
   <p>Grafico Umidade</p>
-  <img alt="Icon" src="./Grafico Umidade.jpg" width="350" />
+  <img alt="Icon" src="./Grafico Umidade.jpg" width="400" />
 </p>
 
 <p align="center">
   <p>Grafico Vazão</p>
-  <img alt="Icon" src="./Grafico Vazao.jpg" width="250" />
+  <img alt="Icon" src="./Grafico Vazao.jpg" width="400" />
 </p>
