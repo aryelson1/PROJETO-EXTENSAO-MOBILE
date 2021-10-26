@@ -5,5 +5,5 @@
 
 <p align="center">
   <p>Tela Monitoramento</p>
-  <img alt="Icon" src="./Codigo Tela De Monitoramento.png" width="200"/>
+  <img alt="Icon" src="./Codigo Tela De Monitoramento.png" />
 </p>
